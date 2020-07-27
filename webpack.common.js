@@ -19,5 +19,5 @@ module.exports = {
             filename: '[name].css',
             chunkFilename: '[name].[chunkhash].css'
         }),
-    ],
+    ]
 };

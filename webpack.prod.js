@@ -7,8 +7,8 @@ const
 
 module.exports = merge(common, {
     output: {
-        path: path.resolve(__dirname, 'build'),
-        publicPath: path.resolve(__dirname, 'build')
+        path: path.resolve(__dirname, 'dist'),
+        publicPath: path.resolve(__dirname, 'dist')
     },
     plugins: [],
     watch: false,
