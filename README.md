@@ -25,7 +25,7 @@ example ajax preload
 
 find modals    
     
-    LaraModal.find(document.documentElement);
+    LaraModal.find(document.body);
     
 open buttons
     
