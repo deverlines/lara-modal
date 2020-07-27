@@ -1,6 +1,6 @@
 {
     "name": "@deverlines/lara-modal",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "Lara modals",
     "main": "index.js",
     "directories": {
