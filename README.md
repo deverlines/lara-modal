@@ -1,4 +1,9 @@
 
+    import LaraModal from '@deverlines/lara-modal'
+    import from '@deverlines/lara-modal/dist/style.css'
+
+example
+
     <div 
          lara-modal="modal-name"    - modal-name
          mode="mode"                - html, preload 
@@ -22,7 +27,6 @@ example ajax preload
 
     <div lara-modal="preload-modal" mode="preload" url="examples/ajax.html" discover style="display: none"></div>
     
-
 find modals    
     
     LaraModal.find(document.body);
